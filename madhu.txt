@@ -1,0 +1,6 @@
+i a poor boy 
+exit
+
+exit
+:q
+
